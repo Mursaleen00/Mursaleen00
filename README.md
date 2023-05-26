@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://mursaleen00.github.io/portfolio/](mursaleen00.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/Mursaleen00/portfolio](mursaleen00.github.io/portfolio/)
 
 - 💬 Ask me about **HTML , CSS and Javascript**
 
