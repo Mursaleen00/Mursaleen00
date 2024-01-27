@@ -4,19 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mursaleen00&label=Profile%20views&color=0e75b6&style=flat" alt="mursaleen00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mursaleen00" alt="mursaleen00" /></a> </p>
-
 - 🌱 I’m currently learning **Strapi**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mursaleen00.vercel.app](https://portfolio-mursaleen00.vercel.app)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Tailwind, Bootstrap, React.js, Next.js and Firebase**
+- 💬 Ask me about **HTML, CSS, Javascript, Tailwind, Bootstrap, React.js, Next.js, and Firebase**
 
 - 📫 How to reach me **m.mursaleen3456@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio-mursaleen00.vercel.app](https://portfolio-mursaleen00.vercel.app)
 
-- ⚡ Fun fact **I Think i am learning very Quickly**
+- ⚡ Fun fact **I Think I am learning very Quickly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
