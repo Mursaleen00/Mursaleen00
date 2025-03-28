@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Strapi**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-mursaleen00.vercel.app](https://portfolio-mursaleen00.vercel.app)
+- 👨‍💻 All of my projects are available at [https://mursaleen-portfolio.vercel.app](https://mursaleen-portfolio.vercel.app)
 
 - 💬 Ask me about **HTML, CSS, Javascript, Tailwind, Bootstrap, React.js, Next.js, and Firebase**
 
