@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mursaleen00&label=Profile%20views&color=0e75b6&style=flat" alt="mursaleen00" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/7be8d183-ea89-4ca3-8021-14b420a37351.svg)](https://wakatime.com/@7be8d183-ea89-4ca3-8021-14b420a37351)
+
 - 🌱 I’m currently learning **Strapi**
 
 - 👨‍💻 All of my projects are available at [https://mursaleen-portfolio.vercel.app](https://mursaleen-portfolio.vercel.app)
