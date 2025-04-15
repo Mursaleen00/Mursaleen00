@@ -6,7 +6,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/7be8d183-ea89-4ca3-8021-14b420a37351.svg)](https://wakatime.com/@7be8d183-ea89-4ca3-8021-14b420a37351)
 
-- 🌱 I’m currently learning **Strapi**
+- 🌱 I’m currently learning **Nest.js**
 
 - 👨‍💻 All of my projects are available at [https://mursaleen-portfolio.vercel.app](https://mursaleen-portfolio.vercel.app)
 
