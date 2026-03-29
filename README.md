@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mursaleen&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Building%20Products%20Clients%20Are%20Proud%20Of&descAlignY=56&descSize=20&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,50:065f46,100:047857&height=200&section=header&text=Mursaleen&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Building%20Products%20Clients%20Are%20Proud%20Of&descAlignY=56&descSize=20&descColor=6ee7b7" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=640&lines=I+build+products+clients+are+proud+of.;Full-Stack+%7C+Next.js+%7C+Node.js+%7C+TypeScript;From+concept+to+live+%E2%80%94+in+record+time.;3%2B+years+%7C+20%2B+shipped+projects+%7C+0+compromises.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=34D399&center=true&vCenter=true&multiline=false&repeat=true&width=640&lines=I+build+products+clients+are+proud+of.;Full-Stack+%7C+Next.js+%7C+Node.js+%7C+TypeScript;From+concept+to+live+%E2%80%94+in+record+time.;3%2B+years+%7C+20%2B+shipped+projects+%7C+0+compromises.)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mursaleen.creativehub.dev-7c3aed?style=for-the-badge&logoColor=white)](https://mursaleen.creativehub.dev/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mursaleen.creativehub.dev-059669?style=for-the-badge&logoColor=white)](https://mursaleen.creativehub.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mursaleen00)
 [![Gmail](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.mursaleen3456@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923360200164)
@@ -130,7 +130,7 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-flightwiserclaims.com-7c3aed?style=for-the-badge)](https://flightwiserclaims.com/)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-flightwiserclaims.com-059669?style=for-the-badge&logoColor=white)](https://flightwiserclaims.com/)
 
 </div>
 
@@ -155,7 +155,7 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-kafintech--demo.vercel.app-7c3aed?style=for-the-badge)](https://kafintech-demo.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-kafintech--demo.vercel.app-059669?style=for-the-badge&logoColor=white)](https://kafintech-demo.vercel.app/)
 
 </div>
 
@@ -180,7 +180,7 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-izi--trust--capital--demo.vercel.app-7c3aed?style=for-the-badge)](https://izi-trust-capital-demo.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-izitrustcapital.com-059669?style=for-the-badge&logoColor=white)](https://izi-trust-capital-demo.vercel.app/)
 
 </div>
 
@@ -205,7 +205,7 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-mursaleen--admin.vercel.app-7c3aed?style=for-the-badge)](https://mursaleen-admin.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-mursaleen--admin.vercel.app-059669?style=for-the-badge&logoColor=white)](https://mursaleen-admin.vercel.app/)
 
 </div>
 
@@ -230,7 +230,7 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-bin--and--beyond--demo.vercel.app-7c3aed?style=for-the-badge)](https://bin-and-beyond-demo.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-bin--and--beyond--demo.vercel.app-059669?style=for-the-badge&logoColor=white)](https://bin-and-beyond-demo.vercel.app/)
 
 </div>
 
@@ -266,27 +266,27 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mursaleen00&theme=midnight_purple" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mursaleen00&theme=github_dark" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mursaleen00&theme=midnight_purple" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mursaleen00&theme=github_dark" height="180" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mursaleen00&theme=midnight_purple" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mursaleen00&theme=github_dark" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=mursaleen00&theme=midnight-purple&hide_border=true&background=0D1117&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9" />
+<img src="https://streak-stats.demolab.com/?user=mursaleen00&theme=dark&hide_border=true&background=0D1117&stroke=34d399&ring=34d399&fire=6ee7b7&currStreakLabel=34d399&sideLabels=c9d1d9&dates=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mursaleen00&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/mursaleen00)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mursaleen00&bg_color=0d1117&color=34d399&line=059669&point=ffffff&area=true&hide_border=true)](https://github.com/mursaleen00)
 
 </div>
 
@@ -312,8 +312,8 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 
 <div align="center">
 
-[![Hire Me](https://img.shields.io/badge/💼_HIRE_ME-7c3aed?style=for-the-badge&labelColor=5b21b6)](mailto:m.mursaleen3456@gmail.com)
-[![View Portfolio](https://img.shields.io/badge/🌐_VIEW_PORTFOLIO-0f172a?style=for-the-badge&labelColor=1e293b)](https://mursaleen.creativehub.dev/)
+[![Hire Me](https://img.shields.io/badge/💼_HIRE_ME-059669?style=for-the-badge&labelColor=047857)](mailto:m.mursaleen3456@gmail.com)
+[![View Portfolio](https://img.shields.io/badge/🌐_VIEW_PORTFOLIO-0d1117?style=for-the-badge&labelColor=022c22)](https://mursaleen.creativehub.dev/)
 [![WhatsApp](https://img.shields.io/badge/💬_WHATSAPP_ME-25D366?style=for-the-badge&labelColor=16a34a)](https://wa.me/923360200164)
 
 </div>
@@ -322,7 +322,7 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:047857,50:065f46,100:022c22&height=120&section=footer" width="100%"/>
 
 *Turning your vision into a product — one commit at a time.*
 
