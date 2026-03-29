@@ -39,7 +39,7 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 |:---:|:---:|:---:|:---:|:---:|
 | **3+ Years** | **20+** | **3,000+** | **100+** | **4,000+** |
 
-**⏱ 2,207+ hours** of verified coding activity tracked on WakaTime
+[![WakaTime](https://wakatime.com/badge/user/7be8d183-ea89-4ca3-8021-14b420a37351.svg)](https://wakatime.com/@mursaleen00)
 
 </div>
 
@@ -257,6 +257,12 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 ---
 
 ## 📊 GitHub Stats
+
+<div align="center">
+
+[![WakaTime](https://wakatime.com/badge/user/7be8d183-ea89-4ca3-8021-14b420a37351.svg)](https://wakatime.com/@mursaleen00)
+
+</div>
 
 <div align="center">
 
