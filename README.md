@@ -1,42 +1,83 @@
+<h1 align="center">Hi 👋, I'm Mursaleen</h1>
+<h3 align="center">Frontend Developer | Web Developer | Founder @ Creative Hub</h3>
 
-<h1 align="center">Hi 👋, I'm Mursaleen Ansari</h1>
-<h3 align="center">I am a dedicated programmer and a passionate front-end developer from Pakistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mursaleen00&label=Profile%20views&color=0e75b6&style=flat" alt="mursaleen00" /> </p>
-
-[![wakatime](https://wakatime.com/badge/user/7be8d183-ea89-4ca3-8021-14b420a37351.svg)](https://wakatime.com/@7be8d183-ea89-4ca3-8021-14b420a37351)
-
-- 🌱 I’m currently learning **Nest.js**
-
-- 👨‍💻 All of my projects are available at [https://mursaleen-portfolio.vercel.app](https://mursaleen-portfolio.vercel.app)
-
-- 💬 Ask me about **HTML, CSS, Javascript, Tailwind, Bootstrap, React.js, Next.js, and Firebase**
-
-- 📫 How to reach me **m.mursaleen3456@gmail.com**
-
-- 📄 Know about my experiences [https://mursaleen-portfolio.vercel.app](https://mursaleen-portfolio.vercel.app/)
-
-- ⚡ Fun fact **I Think I am learning very Quickly**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/mursaleen._.ansari?igsh=enUzZG1qMmV3Yjhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mursaleen_ansari00" height="30" width="40" /></a>
+<p align="center">
+  🚀 Passionate about building modern, scalable, and high-performance web applications
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mursaleen00&show_icons=true&locale=en&layout=compact&theme=transparent" alt="mursaleen00" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mursaleen00&show_icons=true&locale=en&theme=transparent" alt="mursaleen00" /></p>
+- 🎯 Frontend Developer specializing in **Next.js, React & Tailwind CSS**
+- 💼 Founder of **Creative Hub** (Web Design & Development Agency)
+- 🌍 Building projects for **international clients**
+- 🧠 Always learning & improving my development skills
+- ⚡ Focused on clean UI, performance & user experience
 
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mursaleen00&theme=transparent" alt="mursaleen00"/></p>
+## 🛠️ Tech Stack
 
+### 🚀 Frontend
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Next.js
+- Tailwind CSS, Bootstrap
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+### ⚙️ Backend (Basic)
+- Node.js
+- REST APIs
 
+### 🗄️ Tools & Platforms
+- Git & GitHub
+- Vercel
+- Figma
+- VS Code
 
+---
 
+## 📂 Projects
 
+### 🛒 Sansa (E-Commerce Website)
+- Built with Next.js & Tailwind CSS
+- Modern UI & responsive design
 
+### 🏢 Haiger (Company Portfolio)
+- Clean and professional business website
+- Fully responsive & optimized
+
+### 🌐 Personal Portfolio
+- Showcasing my work and skills
+- Built with modern technologies
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mursaleen00&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mursaleen00&theme=radical" alt="streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 🌍 Portfolio: https://mursaleen.creativehub.dev  
+- 📧 Email: your-email@example.com  
+- 📱 Phone: 03360200164  
+
+---
+
+## 💡 Goals
+
+- 🚀 Build a global software agency
+- 💼 Work with international clients
+- 🌟 Become a top-rated developer
+
+---
+
+⭐ **If you like my work, don't forget to star my repositories!**
