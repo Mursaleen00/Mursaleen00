@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=34D399&center=true&vCenter=true&multiline=false&repeat=true&width=640&lines=I+build+products+clients+are+proud+of.;Full-Stack+%7C+Next.js+%7C+Node.js+%7C+TypeScript;From+concept+to+live+%E2%80%94+in+record+time.;3%2B+years+%7C+20%2B+shipped+projects+%7C+0+compromises.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=34D399&center=true&vCenter=true&multiline=false&repeat=true&width=640&lines=I+build+products+clients+are+proud+of.;Full-Stack+%7C+Next.js+%7C+Node.js+%7C+TypeScript;From+concept+to+live+%E2%80%94+in+record+time.;3%2B+years+%7C+30%2B+shipped+projects+%7C+160%2B+PRs.)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mursaleen.creativehub.dev-059669?style=for-the-badge&logoColor=white)](https://mursaleen.creativehub.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mursaleen00)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mursaleen-ansari)
 [![Gmail](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.mursaleen3456@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923360200164)
 
@@ -25,19 +25,19 @@
 
 ## 👨‍💻 About Me
 
-> *"I don't just write code — I build systems that work, scale, and convert."*
+> _"I don't just write code — I build systems that work, scale, and convert."_
 
 I'm **Mursaleen**, a full-stack developer based in **Karachi, Pakistan** with **3+ years** of experience engineering web applications that clients trust and users love.
 
 My edge? I bridge the gap between **powerful backend architecture** and **pixel-perfect frontend design**. Whether you need a fintech dashboard, a SaaS platform, or a corporate portal — I architect it from scratch, ship it fast, and make it scale.
 
-I've worked with clients across industries: **finance, crypto, SaaS, e-commerce, real estate, CleanTech, and media** — delivering solutions that don't just look good, but *perform*.
+I've worked with clients across industries: **finance, crypto, SaaS, e-commerce, real estate, CleanTech, and media** — delivering solutions that don't just look good, but _perform_.
 
 <div align="center">
 
-| 📅 Experience | 💻 Projects | 🔁 Commits | 🔃 Pull Requests | 👀 Profile Views |
-|:---:|:---:|:---:|:---:|:---:|
-| **3+ Years** | **20+** | **3,000+** | **100+** | **4,000+** |
+| 📅 Experience | 💻 Projects | 🔁 Commits | 🔃 Pull Requests | ⏱️ Coding Hours |
+| :-----------: | :---------: | :--------: | :--------------: | :-------------: |
+| **3+ Years**  |   **30+**   | **2,500+** |     **160+**     |   **2,300+**    |
 
 [![WakaTime](https://wakatime.com/badge/user/7be8d183-ea89-4ca3-8021-14b420a37351.svg)](https://wakatime.com/@mursaleen00)
 
@@ -95,15 +95,15 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 
 ## 💼 Services
 
-| Service | What You Get |
-|:---|:---|
-| ⚡ **Full-Stack Web Apps** | End-to-end product — backend API + frontend UI, deployed and production-ready |
-| 🎨 **Premium UI/UX Engineering** | Pixel-perfect, animated interfaces built with Next.js, Tailwind CSS 4, and Framer Motion |
-| 🏢 **Corporate & Agency Portals** | Professional websites that build trust, attract clients, and drive conversions |
-| 💰 **Fintech & Crypto Platforms** | Secure, data-rich financial UIs built for performance and compliance |
-| 🛒 **E-Commerce Platforms** | Dynamic storefronts, product management, and conversion-focused flows |
-| 🤖 **Automation & API Integrations** | Real-time data sync, third-party API integrations, and backend automation |
-| ✈️ **SaaS & Claim Platforms** | Complex multi-step flows, auth systems, and business logic-heavy applications |
+| Service                              | What You Get                                                                             |
+| :----------------------------------- | :--------------------------------------------------------------------------------------- |
+| ⚡ **Full-Stack Web Apps**           | End-to-end product — backend API + frontend UI, deployed and production-ready            |
+| 🎨 **Premium UI/UX Engineering**     | Pixel-perfect, animated interfaces built with Next.js, Tailwind CSS 4, and Framer Motion |
+| 🏢 **Corporate & Agency Portals**    | Professional websites that build trust, attract clients, and drive conversions           |
+| 💰 **Fintech & Crypto Platforms**    | Secure, data-rich financial UIs built for performance and compliance                     |
+| 🛒 **E-Commerce Platforms**          | Dynamic storefronts, product management, and conversion-focused flows                    |
+| 🤖 **Automation & API Integrations** | Real-time data sync, third-party API integrations, and backend automation                |
+| ✈️ **SaaS & Claim Platforms**        | Complex multi-step flows, auth systems, and business logic-heavy applications            |
 
 ---
 
@@ -113,14 +113,14 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 
 ### 1. ✈️ Flight Wiser Claims
 
-> *Turning EU flight disruption law into a 3-minute digital claim process.*
+> _Turning EU flight disruption law into a 3-minute digital claim process._
 
 [![Flight Wiser Claims](https://portfolio-backend-ruddy-chi.vercel.app/projects/flight-wiser-claims.png)](https://flightwiserclaims.com/)
 
-| | |
-|:---|:---|
-| **Category** | Full Stack |
-| **Tech** | Next.js 15 · TypeScript · Tailwind CSS 4 · Cloudinary |
+|              |                                                       |
+| :----------- | :---------------------------------------------------- |
+| **Category** | Full Stack                                            |
+| **Tech**     | Next.js 15 · TypeScript · Tailwind CSS 4 · Cloudinary |
 
 **💡 Problem:** Air passengers across the EU and UK regularly lose up to €600 in rightful compensation for delayed or cancelled flights — simply because the claims process is complex, inaccessible, and manually overwhelming.
 
@@ -138,14 +138,14 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 
 ### 2. 💰 Kafintech — Fintech Platform
 
-> *Banking-grade digital finance, built for global businesses.*
+> _Banking-grade digital finance, built for global businesses._
 
 [![Kafintech](https://portfolio-backend-ruddy-chi.vercel.app/projects/kafintech.png)](https://kafintech-demo.vercel.app/)
 
-| | |
-|:---|:---|
-| **Category** | Fintech Web App |
-| **Tech** | React · TypeScript · Tailwind CSS · Vite |
+|              |                                          |
+| :----------- | :--------------------------------------- |
+| **Category** | Fintech Web App                          |
+| **Tech**     | React · TypeScript · Tailwind CSS · Vite |
 
 **💡 Problem:** A fintech startup needed a client-facing platform that conveyed credibility, communicated complex financial features clearly, and delivered a seamless experience across devices — all on a tight timeline.
 
@@ -163,14 +163,14 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 
 ### 3. 🏦 IZI Trust Capital — Financial Services
 
-> *Corporate credibility, engineered into every pixel.*
+> _Corporate credibility, engineered into every pixel._
 
 [![IZI Trust Capital](https://portfolio-backend-ruddy-chi.vercel.app/projects/izi-trust-capital.png)](https://izi-trust-capital-demo.vercel.app/)
 
-| | |
-|:---|:---|
-| **Category** | Corporate |
-| **Tech** | React · TypeScript · Tailwind CSS · Vite |
+|              |                                          |
+| :----------- | :--------------------------------------- |
+| **Category** | Corporate                                |
+| **Tech**     | React · TypeScript · Tailwind CSS · Vite |
 
 **💡 Problem:** A wealth management firm needed a digital presence that reflected the sophistication and trustworthiness of their services — without looking like a generic off-the-shelf template.
 
@@ -188,14 +188,14 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 
 ### 4. 🎵 Harmony Hub — Agency Management Platform
 
-> *Real-time data meets beautiful UI — agency operations, simplified.*
+> _Real-time data meets beautiful UI — agency operations, simplified._
 
 [![Harmony Hub](https://portfolio-backend-ruddy-chi.vercel.app/projects/harmony-hub.png)](https://mursaleen-admin.vercel.app/)
 
-| | |
-|:---|:---|
-| **Category** | Full Stack |
-| **Tech** | React · TypeScript · Stein API · Recharts · shadcn/ui |
+|              |                                                       |
+| :----------- | :---------------------------------------------------- |
+| **Category** | Full Stack                                            |
+| **Tech**     | React · TypeScript · Stein API · Recharts · shadcn/ui |
 
 **💡 Problem:** A digital agency was managing client data, financial analytics, and operations across disconnected spreadsheets — creating bottlenecks, reporting delays, and blind spots.
 
@@ -213,14 +213,14 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 
 ### 5. ♻️ Bin & Beyond — Sustainability Platform
 
-> *Making sustainable waste management accessible for everyone.*
+> _Making sustainable waste management accessible for everyone._
 
 [![Bin & Beyond](https://portfolio-backend-ruddy-chi.vercel.app/projects/bin-and-beyond.png)](https://bin-and-beyond-demo.vercel.app/)
 
-| | |
-|:---|:---|
-| **Category** | Web App |
-| **Tech** | React · TypeScript · Tailwind CSS · Vite |
+|              |                                          |
+| :----------- | :--------------------------------------- |
+| **Category** | Web App                                  |
+| **Tech**     | React · TypeScript · Tailwind CSS · Vite |
 
 **💡 Problem:** Businesses and households had no intuitive way to find and optimize waste disposal and recycling services — leading to poor recycling rates and unnecessary environmental impact.
 
@@ -245,8 +245,8 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 │  ✅  Ships On Time           — Deadlines are commitments, not goals │
 │  ✅  Clean, Scalable Code    — Built to grow, not just to ship      │
 │  ✅  Business-First Thinking — I optimize for outcomes, not tricks  │
-│  ✅  2,207+ Hours Tracked    — Proven consistency via WakaTime      │
-│  ✅  Real-World Experience   — 20+ projects across 8+ industries    │
+│  ✅  2,300+ Hours Tracked    — Proven consistency via WakaTime      │
+│  ✅  Real-World Experience   — 30+ projects across 8+ industries    │
 │  ✅  Communication First     — You'll never be left wondering       │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
@@ -298,13 +298,13 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 
 <div align="center">
 
-| Channel | Contact |
-|:---|:---|
-| 📧 **Email** | [m.mursaleen3456@gmail.com](mailto:m.mursaleen3456@gmail.com) |
-| 💬 **WhatsApp** | [+92 336 0200164](https://wa.me/923360200164) |
-| 💼 **LinkedIn** | [linkedin.com/in/mursaleen00](https://www.linkedin.com/in/mursaleen00) |
-| 🌐 **Portfolio** | [mursaleen.creativehub.dev](https://mursaleen.creativehub.dev/) |
-| 📍 **Location** | Karachi, Pakistan · Available Remote Worldwide |
+| Channel          | Contact                                                                                            |
+| :--------------- | :------------------------------------------------------------------------------------------------- |
+| 📧 **Email**     | [m.mursaleen3456@gmail.com](mailto:m.mursaleen3456@gmail.com)                                      |
+| 💬 **WhatsApp**  | [+92 336 0200164](https://wa.me/923360200164)                                                      |
+| 💼 **LinkedIn**  | [linkedin.com/in/muhammad-mursaleen-ansari](https://www.linkedin.com/in/muhammad-mursaleen-ansari) |
+| 🌐 **Portfolio** | [mursaleen.creativehub.dev](https://mursaleen.creativehub.dev/)                                    |
+| 📍 **Location**  | Karachi, Pakistan · Available Remote Worldwide                                                     |
 
 </div>
 
@@ -324,6 +324,6 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:047857,50:065f46,100:022c22&height=120&section=footer" width="100%"/>
 
-*Turning your vision into a product — one commit at a time.*
+_Turning your vision into a product — one commit at a time._
 
 </div>
