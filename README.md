@@ -16,7 +16,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mursaleen.creativehub.dev-059669?style=for-the-badge&logoColor=white)](https://mursaleen.creativehub.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mursaleen-ansari)
-[![Gmail](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.mursaleen3456@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mursaleen@creativehub.dev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923360200164)
 
 </div>
@@ -300,7 +300,7 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 
 | Channel          | Contact                                                                                            |
 | :--------------- | :------------------------------------------------------------------------------------------------- |
-| 📧 **Email**     | [m.mursaleen3456@gmail.com](mailto:m.mursaleen3456@gmail.com)                                      |
+| 📧 **Email**     | [mursaleen@creativehub.dev](mailto:mursaleen@creativehub.dev)                                      |
 | 💬 **WhatsApp**  | [+92 336 0200164](https://wa.me/923360200164)                                                      |
 | 💼 **LinkedIn**  | [linkedin.com/in/muhammad-mursaleen-ansari](https://www.linkedin.com/in/muhammad-mursaleen-ansari) |
 | 🌐 **Portfolio** | [mursaleen.creativehub.dev](https://mursaleen.creativehub.dev/)                                    |
@@ -312,7 +312,7 @@ I've worked with clients across industries: **finance, crypto, SaaS, e-commerce,
 
 <div align="center">
 
-[![Hire Me](https://img.shields.io/badge/💼_HIRE_ME-059669?style=for-the-badge&labelColor=047857)](mailto:m.mursaleen3456@gmail.com)
+[![Hire Me](https://img.shields.io/badge/💼_HIRE_ME-059669?style=for-the-badge&labelColor=047857)](mailto:mursaleen@creativehub.dev)
 [![View Portfolio](https://img.shields.io/badge/🌐_VIEW_PORTFOLIO-0d1117?style=for-the-badge&labelColor=022c22)](https://mursaleen.creativehub.dev/)
 [![WhatsApp](https://img.shields.io/badge/💬_WHATSAPP_ME-25D366?style=for-the-badge&labelColor=16a34a)](https://wa.me/923360200164)
 
